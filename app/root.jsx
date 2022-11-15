@@ -30,7 +30,7 @@ const components = {
 };
 
 storyblokInit({
-  accessToken: "",
+  accessToken: "<INSERT TOKEN>",
   use: [apiPlugin],
   components,
 });
